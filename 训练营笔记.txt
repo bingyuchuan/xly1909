@@ -1,5 +1,5 @@
 Linux笔记
-	安装VMware虚拟机
+	安装VMware虚拟机 
 
 	下载Ubuntu镜像文件
 
@@ -14,34 +14,34 @@ Linux笔记
 	Linux常用命令
 		1. tree
 
-		2. ls
+		2. ls 查看
 
-		3. cd
+		3. cd 进入
 
-		4. pwd
+		4. pwd 
 		
-		5. mkdir
+		5. mkdir 建立文件夹
 		
-		6. vi
+		6. vi 编辑文件
 		
-		7. rmdir
+		7. rmdir 删除文件夹
 		
-		8. rm
+		8. rm 
 		
-		9. cp 
+		9. cp 复制
 		
-		10. mv
+		10. mv 移动
 		
 		11. 查看文件内容 -- 了解内容
-			a. Cat
+			a. Cat 查看
 
-			b. More
+			b. More 
 
-			c. Less
+			c. Less 
 			
-			d. Head
+			d. Head 查看头文件
 
-			e. tail
+			e. tail 查看后文件
 		12. 软硬链接 ln
 	
 mysql笔记
@@ -57,15 +57,15 @@ mysql笔记
 		日期：
 	sql语句
 		DDL数据定义语言
-			查看数据库
+			查看数据库 show databasas
 			
-			新建数据库
+			新建数据库 create database 文件名
 			
-			切换数据库
+			切换数据库 use 数据名称
 			
-			查看数据表
+			查看数据表 show tables
 			
-			建表语句
+			建表语句 
 			
 			查看表结构
 			
